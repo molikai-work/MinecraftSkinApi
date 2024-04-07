@@ -1,5 +1,5 @@
 # MinecraftSkinApi
-一個基於 PHP 的 Minecraft 皮膚 API
+一個基於 PHP 的 Minecraft 皮膚 API。
 
 存儲限制信息的文件夾：./rate_limit_
 
